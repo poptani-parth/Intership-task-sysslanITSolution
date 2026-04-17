@@ -1,4 +1,4 @@
-// Develop a two-player console Tic-Tac-Toe game
+// Develop a two-player console Tic-Tac-Toe game.
 
 import java.util.Scanner;
 
