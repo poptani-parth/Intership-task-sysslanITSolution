@@ -1,4 +1,4 @@
-//Encrypt and decrypt text files using basic algorithms
+//Encrypt and decrypt text files using basic algorithms.
 
 import java.util.Scanner;
 import java.io.*;
