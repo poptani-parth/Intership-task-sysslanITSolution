@@ -1,3 +1,5 @@
+//Daily task manager with load/save functionality.
+
 import java.io.*;
 import java.util.*;
 
