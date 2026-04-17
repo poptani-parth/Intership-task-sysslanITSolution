@@ -14,14 +14,14 @@
 
 ### About 📌
 
-This repository contains my work for the **Java Developer Intern** role at **Sysslan IT Solutions**, following the official level-based task program.
+This repository contains my work for the **Java Developer Intern** role at **Sysslan IT Solutions**, organized as **projects inside this repo**.
 
 ### Quick navigation 🧭
 
 - [Internship details](#internship-details)
 - [Program goals](#program-goals)
 - [Completion status](#completion-status-)
-- [Task levels](#task-levels)
+- [Tasks (4×4 groups)](#tasks-44-groups-)
 - [Instructions & submission notes](#instructions--submission-notes-from-task-document)
 - [Repository structure](#repository-structure-suggested)
 - [How to run](#how-to-run-generic)
@@ -57,61 +57,48 @@ The internship tasks are designed to provide hands-on Java experience, progressi
 ### Completion status ✅
 
 - **Overall**: ✅ Completed
-- **Levels**:
-  - [x] **Level 1 — Core Java Fundamentals**
-  - [x] **Level 2 — Intermediate Java Utilities**
-  - [x] **Level 3 — OOP & Small Projects**
-  - [x] **Level 4 — Real-World Beginner Projects**
-  - [x] **Level 5 — Advanced Beginner / Professional Projects**
+- **Tasks**: ✅ 20/20 completed
 
 ---
 
-### Task levels 🧩
+### Tasks (4×4 groups) 🧩
 
-#### Level 1 — Core Java Fundamentals 🟢
+Each group contains **4 projects/tasks**. (No level folders — each task can be its own small project in this repo.)
 
-Focus: syntax, loops, conditionals, arrays, user input.
+#### Group 1 ✅ (Core basics)
 
-- **Task 1**: Display a 3×3 number grid using arrays and check if a number exists
-- **Task 2**: Temperature converter (Celsius ↔ Fahrenheit)
-- **Task 3**: Student grade averages using arrays
-- **Task 4**: Secure random password generator based on user preferences 🔐
+- [x] **Task 01**: Display a 3×3 number grid using arrays + check if a number exists
+- [x] **Task 02**: Temperature converter (Celsius ↔ Fahrenheit) 🌡️
+- [x] **Task 03**: Student grade averages using arrays 🎓
+- [x] **Task 04**: Secure random password generator based on user preferences 🔐
 
-#### Level 2 — Intermediate Java Utilities 🟡
+#### Group 2 ✅ (Console utilities)
 
-Focus: validation, console interaction, file handling, basic algorithms.
+- [x] **Task 05**: Two-player console Tic-Tac-Toe ❌⭕
+- [x] **Task 06**: Password strength analyzer using validation rules 🛡️
+- [x] **Task 07**: Encrypt & decrypt text files (basic algorithms) 🧾
+- [x] **Task 08**: Personal expense tracker with file storage 💸
 
-- **Task 1**: Two-player console Tic-Tac-Toe
-- **Task 2**: Password strength analyzer using validation rules
-- **Task 3**: Encrypt/decrypt text files using basic algorithms
-- **Task 4**: Personal expense tracker with file storage
+#### Group 3 ✅ (OOP mini-systems)
 
-#### Level 3 — OOP & Small Projects 🔵
+- [x] **Task 09**: Contact management system using classes and `ArrayList` 📇
+- [x] **Task 10**: Student record system with file-based persistence 📁
+- [x] **Task 11**: Console-based library management system 📚
+- [x] **Task 12**: Timestamped log file generator 🕒
 
-Focus: OOP design, structured applications, persistent storage.
+#### Group 4 ✅ (Automation & reporting)
 
-- **Task 1**: Contact management system using classes and `ArrayList`
-- **Task 2**: Student record system with file-based persistence
-- **Task 3**: Console-based library management system
-- **Task 4**: Timestamped log file generator
+- [x] **Task 13**: Automated file organizer by file type 🗂️
+- [x] **Task 14**: Daily task manager with load/save functionality ✅
+- [x] **Task 15**: Student report generator with formatted output 🧾
+- [x] **Task 16**: CSV data processor (summaries & analytics) 📊
 
-#### Level 4 — Real-World Beginner Projects 🟠
+#### Group 5 ✅ (Professional-style projects)
 
-Focus: automation, reporting, structured data.
-
-- **Task 1**: Automated file organizer by file type
-- **Task 2**: Daily task manager with load/save functionality
-- **Task 3**: Student report generator with formatted output
-- **Task 4**: CSV data processor for summaries and analytics
-
-#### Level 5 — Advanced Beginner / Professional Projects 🔴
-
-Focus: mini real-world applications, error handling, multi-feature projects.
-
-- **Task 1**: Web scraping using JSoup
-- **Task 2**: Automated folder backup tool
-- **Task 3**: CSV-based inventory management system
-- **Task 4**: Personal utility project combining file handling and data processing
+- [x] **Task 17**: Web scraping using JSoup 🌐
+- [x] **Task 18**: Automated folder backup tool 💾
+- [x] **Task 19**: CSV-based inventory management system 🧮
+- [x] **Task 20**: Personal utility project (file handling + data processing) 🧰
 
 ---
 
@@ -130,15 +117,19 @@ Focus: mini real-world applications, error handling, multi-feature projects.
 
 ### Repository structure (suggested) 🗂️
 
-This is a suggested layout to keep each level organized (adjust to match your actual folders):
+This is a suggested **project-based** layout (adjust to match your actual folders):
 
 ```text
 .
-├─ level-1-core-java/
-├─ level-2-utilities/
-├─ level-3-oop-projects/
-├─ level-4-real-world/
-└─ level-5-advanced/
+├─ projects/
+│  ├─ Task_1-number-grid/
+│  ├─ Task_2-temp-converter/
+│  ├─ Task_3-grade-average/
+│  ├─ Task_4-password-generator/
+│  ├─ ...
+│  └─ Task_20-personal-utility/
+├─ README.md
+└─ (optional) docs/
 ```
 
 ### How to run (generic) ⚙️
