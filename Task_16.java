@@ -1,3 +1,5 @@
+// CSV data processor for summaries and analytics
+
 import java.io.*;
 import java.util.*;
 
