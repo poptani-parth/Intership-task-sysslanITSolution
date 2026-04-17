@@ -1,3 +1,5 @@
+// Student record system with file-based persistence
+
 import java.io.*;
 import java.util.*;
 
