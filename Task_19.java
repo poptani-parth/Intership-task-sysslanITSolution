@@ -1,3 +1,5 @@
+//CSV-based inventory management system
+
 import java.io.*;
 import java.util.*;
 
