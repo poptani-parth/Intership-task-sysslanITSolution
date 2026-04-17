@@ -1,3 +1,5 @@
+// Contact management system using classes and ArrayLists
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
