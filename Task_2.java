@@ -1,4 +1,4 @@
-//Create a temperature converter (Celsius ↔ Fahrenheit)
+//Create a temperature converter (Celsius ↔ Fahrenheit).
 // formula for converting --> F = (C × 9/5) + 32
 
 import java.util.Scanner;
