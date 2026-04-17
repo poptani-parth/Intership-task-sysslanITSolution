@@ -1,3 +1,5 @@
+// Student report generator with formatted output
+
 import java.util.Scanner;
 
 // Student Class
