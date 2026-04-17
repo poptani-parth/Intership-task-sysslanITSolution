@@ -1,4 +1,4 @@
-//Task 3: Calculate student grade averages using arrays
+//Task 3: Calculate student grade averages using arrays.
 
 import java.util.Scanner;
 
