@@ -1,4 +1,4 @@
-//Analyze password strength using validation rules
+//Analyze password strength using validation rules.
 
 import java.util.Scanner;
 
