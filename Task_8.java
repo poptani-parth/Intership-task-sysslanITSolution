@@ -1,4 +1,4 @@
-// Task -8 : Build a personal expense tracker with file storage
+// Task -8 : Build a personal expense tracker with file storage.
 
 import java.io.*;
 import java.time.LocalDate;
