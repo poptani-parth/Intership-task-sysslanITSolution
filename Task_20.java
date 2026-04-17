@@ -1,3 +1,5 @@
+//Personal utility project combining file handling and data processing.
+
 import java.io.*;
 import java.util.*;
 
