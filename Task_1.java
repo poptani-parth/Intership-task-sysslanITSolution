@@ -1,4 +1,4 @@
-// Task 1: Display a 3×3 number grid using arrays and check if a number exists
+// Task 1: Display a 3×3 number grid using arrays and check if a number exists.
 
 import java.util.Scanner;
 import java.io.*;
