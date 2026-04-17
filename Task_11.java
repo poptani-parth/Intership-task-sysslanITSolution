@@ -1,3 +1,5 @@
+// Console-based library management system
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
