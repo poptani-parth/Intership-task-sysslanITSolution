@@ -1,4 +1,4 @@
-//Task 4: Generate a secure random password based on user preferences
+//Task 4: Generate a secure random password based on user preferences.
 
 import java.util.Random;
 import java.util.Scanner;
